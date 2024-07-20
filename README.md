@@ -6,5 +6,6 @@
 >
 ## Images
 
-![NVGS](/FinalModels/img/nightVision.png)
-![NVGS](/FinalModels/img/nightVision2.png)
+![NVGS](/FinalModels/img/NVGS1.png)
+![NVGS](/FinalModels/img/NVGS2.png)
+![NVGS](/FinalModels/img/NVGS4.png)
