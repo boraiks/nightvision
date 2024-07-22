@@ -16,3 +16,8 @@
 
 ![NVGS](/FinalModels/img/NVGS5.png)
 ![NVGS](/FinalModels/img/NVGS1.png)
+
+## Connections
+![Connections](/FinalModels/img/waveshareDisplayConnections.jpg)
+>*Source: https://www.waveshare.com/wiki/2inch_LCD_Module?Amazon*
+>
