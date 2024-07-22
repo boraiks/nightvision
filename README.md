@@ -4,8 +4,15 @@
 
 >Honestly, what began as a joke soon turned into a test of my skills. I faced numerous challenges along the way, and I'm very satisfied with how it all turned out.
 >
+
+### Materials
+* **Raspberry Pi**
+* **PS3 Eye Camera.** Any USB camera with removed IR filter would do.
+* **Waveshare 2inch Display**
+* **Some Jumper Cables**
+* **IR Flaslight.** 850nm for better results.
+* **Face Protective Visor with Removed Visor.**
 ## Images
 
 ![NVGS](/FinalModels/img/NVGS5.png)
 ![NVGS](/FinalModels/img/NVGS1.png)
-
