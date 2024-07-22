@@ -12,6 +12,7 @@
 * **Some Jumper Cables**
 * **IR Flaslight.** 850nm for better results.
 * **Face Protective Visor with Removed Visor.**
+* **Concave Lens.** -> Attach it into IR Flaslight to make the light diverge.
 ## Images
 
 ![NVGS](/FinalModels/img/NVGS5.png)
