@@ -22,3 +22,8 @@
 ![Connections](/FinalModels/img/waveshareDisplayConnections.jpg)
 >*Source: https://www.waveshare.com/wiki/2inch_LCD_Module?Amazon*
 >
+
+## Result
+![NVGSPIC](/FinalModels/img/vlcsnap-2024-07-23-04h54m09s093.png)
+>*Here's a photo of my room taken quickly with night vision"
+>
