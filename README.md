@@ -6,10 +6,10 @@
 >
 
 ### Materials
-* **Raspberry Pi**
+* **Raspberry Pi.**
 * **PS3 Eye Camera.** Any USB camera with removed IR filter would do.
-* **Waveshare 2inch Display**
-* **Some Jumper Cables**
+* **Waveshare 2inch Display.**
+* **Some Jumper Cables.**
 * **IR Flaslight.** 850nm for better results.
 * **Face Protective Visor with Removed Visor.**
 * **Concave Lens.** -> Attach it into IR Flaslight to make the light diverge.
